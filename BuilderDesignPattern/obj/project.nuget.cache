@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N+j+Ffq+m5z5JOOl571Ps2FuD8WvSmivpflaM0qIyhDMfNg2Sq/BUTDbrXoDhhMqCIYZXpX6VHgRfB+rUoH39g==",
+  "success": true,
+  "projectFilePath": "D:\\DesignPattern1\\c-sharp-design-patterns-builder\\BuilderDesignPattern\\BuilderDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MGAN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
